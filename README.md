@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**1Batmain/1Batmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Baptiste, i'm a French computer sciences student at ESGI school in Paris. 🇫🇷 👨‍🎓
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                      🔥 Freshly joined the Github community 🔥 
+                      
+                🎨 Constantly looking to improve my range of skills 🎨 
+                   
+                                  so... let's work ! 
+                                ( and learn hopfully )
+                      
+                   Currently looking for an alternated training 👀 👀
+                                
+               Testing and improving my skills on my 'showcase' website : 
+                                            
+                                            📸
+                              📸 https://batworkplace.fr/ 📸
+                                            📸
