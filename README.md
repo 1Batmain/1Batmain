@@ -1,15 +1,10 @@
 ## Hi ! 🖐️ 
-## I'm Baptiste, a French computer sciences student at ESGI Paris school. 🇫🇷 👨‍🎓
+## I'm Baptiste, a French student in computer sciences at ESGI school in Paris. 🇫🇷 👨‍🎓
 
 ---
-                                       🔥 Freshly joined the Github community 🔥   
-                                       
-                                  🎨 Constantly looking to improve my range of skills 🎨 
-                                        
-                                     Currently looking for an alternated training 👀 👀
-                                                  
-                                       Testing and improving my skills on my website : 
-                                                              
-                                                              
-                                                      📸 [My website](https://batworkplace.fr/) 📸
+### 🔥 Freshly arrived in Github community 🔥   
+### Constantly looking to improve my skills 🎨 🏋️‍♂️ 
+### Highly interested by an alternated training 👀 👀
+### I'm testing and improving my skills on my website  🛠️ ⏳                                                         
+## [Batworkplace.fr]( https://batworkplace.fr/ ) 
                                                               
