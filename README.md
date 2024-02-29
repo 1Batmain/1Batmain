@@ -8,7 +8,7 @@
                                         
                                      Currently looking for an alternated training 👀 👀
                                                   
-                                 Testing and improving my skills on my 'showcase' website : 
+                                 Testing and improving my skills on my website : 
                                                               
                                                               
                                                 📸 https://batworkplace.fr/ 📸
